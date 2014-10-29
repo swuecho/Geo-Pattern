@@ -1,4 +1,4 @@
 name = "Geo-Pattern"
-# badges = ["travis"]
+badges = ["travis"]
 module_maker="ModuleBuildTiny"
 

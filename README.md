@@ -19,4 +19,4 @@ it under the same terms as Perl itself.
 
 # AUTHOR
 
-Hao Wu <hwu@intellisurvey.com>
+Hao Wu <echowuhao@gmail.com>
